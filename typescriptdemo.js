@@ -1,0 +1,12 @@
+var Name = 'Samith';
+var Age = 19;
+var ispresent = true;
+var data = "Hii";
+var data2 = "HelloWorldWelcome";
+console.log(Name);
+console.log(Age);
+console.log(ispresent);
+console.log(data);
+data = 123;
+console.log(data);
+console.log(data2);
